@@ -1,6 +1,6 @@
 ![twitter](images/logos.jpg)
 
-# Phase 4 Npl Twitter Sentiments
+# Phase 4 NLP Twitter Sentiments
 
 <b>Build a model that can rate the sentiment of a Tweet based on its content.</b>
 
